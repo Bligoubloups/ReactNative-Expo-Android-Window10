@@ -34,7 +34,7 @@ adb devices
 When you `adb start-server` or `adb devices`, your phone may prompt you to authorize some stuff, clic Yes.
 ### To create the same project...
 Download and install Node.js : `https://nodejs.org/`.  
-We need expo-cli to create, build and show the result on our android phone:
+We need expo-cli to create a boilerplate, build your app and show the result on our android phone:
 ```sh
 npm install -g expo-cli
 ```
