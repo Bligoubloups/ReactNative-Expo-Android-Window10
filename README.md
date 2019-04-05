@@ -61,5 +61,5 @@ Clic on `Run on Android device/emulator`.
 The app `Expo` should open itself.  
 To show the result on your phone simply modify the App.js file.
 
-Author: Marc Leonetti & Sven Mathieu  
+Author: Marc Leonetti aka Bligoubloups & Sven Mathieu aka Daplex.  
 Date: 05/04/2019
