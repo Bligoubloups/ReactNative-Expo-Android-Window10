@@ -2,21 +2,17 @@
 This is a simple project to test reactnative on your android mobile with windows 10.
 
 ### Configure your phone
-First download `Expo, Expo Project` on Google Play Store.
-Then set developper mode on your phone:
-
-
-`Settings -> System -> About Phone -> Clic several times on "Build Number"`
-Then Enable these options:
-
-
+First download `Expo, Expo Project` on Google Play Store.  
+Then set developper mode on your phone:  
+`Settings -> System -> About Phone -> Clic several times on "Build Number"`  
+Then Enable these options:  
 `Settings -> System -> Developper Options -> Enable USB Debogage and, if you can, enable ADB Charger Mode Only`
 
 ### Install adb to show the result on your Android Phone
-We need to install adb, configure our phone and run adb.
-Full installation tutorial :
-`https://www.xda-developers.com/install-adb-windows-macos-linux/`
-Dowload adb link : 
+We need to install adb, configure our phone and run adb.  
+Full installation tutorial :  
+`https://www.xda-developers.com/install-adb-windows-macos-linux/`  
+Dowload adb link :  
 `https://dl.google.com/android/repository/platform-tools-latest-darwin.zip`
 
 To run adb with cmd:
@@ -59,9 +55,9 @@ npm i
 npm start
 ```
 
-A webpage will open...
-Clic on `Run on Android device/emulator`.
-Choose a connection `LAN` or `Local`.
+A webpage will open...  
+Clic on `Run on Android device/emulator`.  
+Choose a connection `LAN` or `Local`.  
 To show the result on your phone simply modify the App.js file.
 
 Author: Marc Leonetti & Sven Mathieu
