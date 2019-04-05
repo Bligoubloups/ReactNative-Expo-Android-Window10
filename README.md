@@ -1,4 +1,4 @@
-# ReactNative (expo) Adroid Window10
+# ReactNative (expo) Android Window10
 This is a simple project to test reactnative on your android mobile with windows 10.
 
 ### Configure your phone
