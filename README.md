@@ -27,7 +27,7 @@ adb start-server
 ```sh
 adb kill-server
 ```
-You can also verify that your phone is correctly regognised  with:
+You can also verify that your phone is correctly recognised  with:
 ```sh
 adb devices
 ```
@@ -56,9 +56,10 @@ npm start
 ```
 
 A webpage will open...  
-Clic on `Run on Android device/emulator`.  
 Choose a connection `LAN` or `Local`.  
+Clic on `Run on Android device/emulator`.  
+The app `Expo` should open itself.  
 To show the result on your phone simply modify the App.js file.
 
-Author: Marc Leonetti & Sven Mathieu
+Author: Marc Leonetti & Sven Mathieu  
 Date: 05/04/2019
