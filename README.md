@@ -58,7 +58,7 @@ npm start
 A webpage will open...  
 Choose a connection `LAN` or `Local`.  
 Clic on `Run on Android device/emulator`.  
-The app `Expo` should open itself.  
+The app `Expo` on your phone should open itself.  
 To show the result on your phone simply modify the App.js file.
 
 Author: Marc Leonetti aka Bligoubloups & Sven Mathieu aka Daplex.  
