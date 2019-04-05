@@ -4,8 +4,12 @@ This is a simple project to test reactnative on your android mobile with windows
 ### Configure your phone
 First download `Expo, Expo Project` on Google Play Store.
 Then set developper mode on your phone:
+
+
 `Settings -> System -> About Phone -> Clic several times on "Build Number"`
 Then Enable these options:
+
+
 `Settings -> System -> Developper Options -> Enable USB Debogage and, if you can, enable ADB Charger Mode Only`
 
 ### Install adb to show the result on your Android Phone
